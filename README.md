@@ -1,1 +1,2 @@
-# vcc
+# Variable Capital Company
+
